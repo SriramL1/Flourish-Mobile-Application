@@ -8,7 +8,3 @@ Database: PostgreSQL
 AI/ML: Python
 Design: Canva
 Deployment: TBD
-
-testing workflow
-another test line
-# Test CI
